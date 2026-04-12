@@ -2,8 +2,7 @@
 
 ### 🚀 Frontend Developer | Aspiring Full Stack Developer
 
-আমি একজন প্যাশনেট ফ্রন্টেন্ড ডেভেলপার। বর্তমানে আমি আধুনিক ওয়েব টেকনোলজি নিয়ে কাজ করছি এবং ব্যাকেন্ড (Node.js/Express/MongoDB) শিখছি। আমি চ্যালেঞ্জিং প্রজেক্টে কাজ করতে এবং নতুন নতুন টেকনোলজি শিখতে পছন্দ করি।
-
+I am a passionate Frontend Developer. Currently, I am working with modern web technologies and learning backend development using **Node.js, Express, and MongoDB**. I enjoy working on challenging projects and love learning new technologies. 🚀
 ---
 
 ### 🛠️ My Tech Stack

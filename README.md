@@ -4,6 +4,7 @@
 
 I am a passionate Frontend Developer. Currently, I am working with modern web technologies and learning backend development using **Node.js, Express, and MongoDB**. I enjoy working on challenging projects and love learning new technologies. 🚀
 ---
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
 
 ### 🛠️ My Tech Stack
 

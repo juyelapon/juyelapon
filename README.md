@@ -19,11 +19,12 @@
 
 ### 👨🏻‍💻 আমার সম্পর্কে
 
-- 🔭 আমি বর্তমানে **React এবং Tailwind CSS** দিয়ে ফ্রন্ট-এন্ড প্রজেক্ট করছি।
-- 🌱 আমি এখন **Node.js, Express এবং MongoDB (Backend)** শিখছি।
-- 👯 আমি **Open Source** প্রজেক্টে কাজ করতে আগ্রহী।
-- 💬 আমাকে **UI/UX, Javascript, বা Responsive Design** নিয়ে যেকোনো প্রশ্ন করতে পারেন।
-- 📫 আমার সাথে যোগাযোগ করুন: **your-email@example.com**
+- 🔭 I am currently working on **front-end projects using React and Tailwind CSS**.
+- 🌱 I am currently learning **Node.js, Express, and MongoDB (Backend)**.
+- 👯 I am interested in contributing to **Open Source** projects.
+- 💬 Ask me about **UI/UX, JavaScript, or Responsive Design**.
+- 📫 Reach me at: **( juyelapondev@gmail.com )**. 🚀
+
 
 ---
 
@@ -71,4 +72,4 @@
 
 <p align="center">
 ধন্যবাদ আমার প্রোফাইল ভিজিট করার জন্য! 😊
-</p><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01dc8164-79db-4be4-9fb4-f73ddedb719d" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5626620e-b4e6-4185-bcde-eaf5230dbd5e" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7ba1377-17d8-41f6-a226-edf1a70e0b4e" />
+<!-- </p><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01dc8164-79db-4be4-9fb4-f73ddedb719d" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5626620e-b4e6-4185-bcde-eaf5230dbd5e" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7ba1377-17d8-41f6-a226-edf1a70e0b4e" /> -->

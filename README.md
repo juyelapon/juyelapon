@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- আপনার দেওয়া সেই প্রো ব্যানার -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" /> -->
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
 
 # 👋 হাই, আমি জুয়েলআপন (Juyelapon)
 ### 🚀 ফ্রন্ট-এন্ড ডেভেলপার | ফুল-স্ট্যাক শিখছি
@@ -19,11 +19,11 @@
 
 ### 👨🏻‍💻 আমার সম্পর্কে
 
-- 🔭 I am currently working on **front-end projects using React and Tailwind CSS**.
-- 🌱 I am currently learning **Node.js, Express, and MongoDB (Backend)**.
-- 👯 I am interested in contributing to **Open Source** projects.
-- 💬 Ask me about **UI/UX, JavaScript, or Responsive Design**.
-- 📫 Reach me at: **( juyelapondev@gmail.com )**. 🚀
+- 🔭 I am currently working on *front-end projects using React and Tailwind CSS*.
+- 🌱 I am currently learning *Node.js, Express, and MongoDB (Backend)*.
+- 👯 I am interested in contributing to *Open Source* projects.
+- 💬 Ask me about *UI/UX, JavaScript, or Responsive Design*.
+- 📫 Reach me at: *( juyelapondev@gmail.com )*. 🚀
 
 
 ---
@@ -32,19 +32,19 @@
 
 <div align="center">
 
-**Frontend**  
+*Frontend*  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend (শিখছি)**  
+*Backend (শিখছি)*  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools**  
+*Tools*  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-| **গিটহাব স্ট্যাটাস** | **সবচেয়ে বেশি ব্যবহৃত ল্যাঙ্গুয়েজ** |
+| *গিটহাব স্ট্যাটাস* | *সবচেয়ে বেশি ব্যবহৃত ল্যাঙ্গুয়েজ* |
 | :---: | :---: |
 | ![Juyelapon's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyelapon&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyelapon&layout=compact&theme=tokyonight) |
 

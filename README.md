@@ -3,7 +3,7 @@
 <!-- আপনার দেওয়া সেই প্রো ব্যানার -->
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
 
-# 👋 হাই, আমি জুয়েলআপন (Juyelapon)
+# 👋 HI, Ami Juyel apon (Juyelapon)
 ### 🚀 ফ্রন্ট-এন্ড ডেভেলপার | ফুল-স্ট্যাক শিখছি
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+modern+web+interfaces;Learning+Full-stack+Development;React+%26+Next.js+Developer;Open+Source+Contributor" alt="Typing SVG" />

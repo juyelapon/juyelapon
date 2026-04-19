@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- আপনার দেওয়া সেই প্রো ব্যানার -->
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" /> -->
 
 # 👋 হাই, আমি জুয়েলআপন (Juyelapon)
 ### 🚀 ফ্রন্ট-এন্ড ডেভেলপার | ফুল-স্ট্যাক শিখছি
